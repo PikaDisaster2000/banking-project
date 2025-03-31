@@ -6,5 +6,5 @@ all they need to know. The comments should usually include at least:
 
 PROJECT TITLE: Bank Project
 PURPOSE OF PROJECT: To create, delete, withdraw, deposit, and/or check an account.
-VERSION or DATE: 0
+VERSION or DATE: 1.0
 
