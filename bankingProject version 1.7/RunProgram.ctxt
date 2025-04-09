@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RunProgram
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RunProgram\ here.\r\n\r\n\ Joseph\ Tuitupou\ \r\n\ Version\ 1.7\r\n
+comment1.params=
+comment1.target=RunProgram()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RunProgram\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
