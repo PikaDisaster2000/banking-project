@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BankProgram
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ mainProject\ here.\r\n\r\n\ Joseph\ Tuitupou\r\n\ Version\ 1.9\r\n
+comment1.params=
+comment1.target=BankProgram()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ mainProject\r\n
+comment10.params=
+comment10.target=java.lang.String\ getAccountTypeNums()
+comment2.params=
+comment2.target=boolean\ loadBank()
+comment3.params=
+comment3.target=void\ showBalance()
+comment4.params=
+comment4.target=void\ withdraw()
+comment5.params=
+comment5.target=void\ deposit()
+comment6.params=
+comment6.target=void\ deleteAccount()
+comment7.params=
+comment7.target=void\ createAccount()
+comment8.params=
+comment8.target=void\ writeToFile()
+comment9.params=
+comment9.target=java.lang.String\ getCustomerIDs()
+numComments=11
