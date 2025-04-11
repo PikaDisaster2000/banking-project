@@ -126,7 +126,7 @@ public class BankProgram {
             if (getCustomerIDs().equals(inputCustomerNum)) {
                     try{
                         tryingToFind = false; // we found them! 
-                        System.out.println("Account found. How much are you withdrawing?");
+                        System.out.println("Account found. How much are you depositing?");
                         double withdrawAmount = kb.nextDouble();
                         currentAccount.adjustWithdraw(withdrawAmount);
                         System.out.println("Current Balance: " + currentAccount.getBalance());
